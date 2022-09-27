@@ -194,3 +194,6 @@ demo
 
         return $this->esClient->search($query);
 ```
+
+# ChangeLog
+- 2022/09/28 新增go版本，详情请看GoVersion，使用的库为github.com/elastic/go-elasticsearch
