@@ -15,8 +15,8 @@ func main() {
 		Addresses: []string{
 			"https://127.0.0.1:9200",
 		},
-		Username: "elastic",
-		Password: "kZ1CSAftuCJI3Nl2ZHwv",
+		Username: "*****",
+		Password: "*******",
 		CACert:   cert,
 	}
 
