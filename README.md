@@ -104,7 +104,7 @@ es index mapping
 
 demo
 ```php
-// 关键字
+	// 关键字
         $keywords = $this->request->input('keywords', '');
         // 页码
         $page = $this->request->input('page');
